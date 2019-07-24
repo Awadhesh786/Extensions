@@ -1,0 +1,15 @@
+.flex-container {
+    display: flex;
+    padding: 4px;
+}
+.flex {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.flex:hover{
+    opacity: 0.4;
+}
+.flex .fa{
+    font-size: 30px;
+    color: black;
+}

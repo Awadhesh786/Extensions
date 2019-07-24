@@ -1,0 +1,18 @@
+{
+    "manifest_version" : 2,
+    "name" : "BookMark",
+    "description" : "Bookmark of Social Sites",
+    "version" : "1.0.0",
+    "icons" : {
+        "128" : "icon_128.png",
+        "48" : "icon_48.png",
+        "16" : "icon_16.png"
+    },
+    "browser_action" : {
+        "default_icon" : "icon_16.png",
+        "default_popup" : "popup.html"
+    },
+    "permissions" : 
+        ["activeTab"]
+    
+}
